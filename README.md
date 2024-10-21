@@ -10,5 +10,5 @@ Causal inference is the process of determining the independent, actual effect of
 Here the project is performed on google colab using the py-why/dowhy library:
 
 <img align="left" alt="Causal Inference" width="200" src="https://avatars.githubusercontent.com/u/101266056?v=4"></br></br></br></br></br>
-<img align="left" alt="Causal Inference" width="200" src="https://www.pywhy.org/dowhy/v0.11/_static/dowhy-logo-small.png"></br></br></br></br></br></br></br></br>
-<img alt="py-why/dowhy" src="https://opengraph.githubassets.com/c8087e9331fba1be7694766cd69871748e9f4f199e7e44df3660fd9d0eea56c5/py-why/dowhy">
+<img align="left" alt="Dowhy" width="200" src="https://www.pywhy.org/dowhy/v0.11/_static/dowhy-logo-small.png">
+<img align="left" alt="Econml" width="200" src="https://www.pywhy.org/assets/econml-logo.png">
