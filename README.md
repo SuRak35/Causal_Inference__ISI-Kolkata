@@ -12,3 +12,7 @@ Here the project is performed on google colab using the py-why/dowhy library:
 <img align="left" alt="Causal Inference" width="200" src="https://avatars.githubusercontent.com/u/101266056?v=4"></br></br></br></br></br>
 <img align="left" alt="Dowhy" width="200" src="https://www.pywhy.org/dowhy/v0.11/_static/dowhy-logo-small.png">
 <img align="left" alt="Econml" width="200" src="https://www.pywhy.org/assets/econml-logo.png">
+
+<p align="center">
+  <img src="https://media.tenor.com/AyTv-0lbeO0AAAAj/check-mark-good.gif" >
+</p>
